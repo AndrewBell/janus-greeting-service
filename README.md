@@ -70,7 +70,7 @@ Tag:
 
 Push:
 
-`cloud docker -- push us.gcr.io/[PROJECT-ID]/greeting-service:1.0`
+`gcloud docker -- push us.gcr.io/[PROJECT-ID]/greeting-service:1.0`
 
 Confirm:
 
